@@ -1,2 +1,3 @@
 # icpc-past-problem
-ICPC problem solutions
+- https://icpc-japan-problems.irrrrr.cc/
+- Solving Regional problems
