@@ -1,3 +1,5 @@
 # icpc-past-problem
+Solving ICPC Regional problems
 - https://icpc-japan-problems.irrrrr.cc/
-- Solving Regional problems
+- https://onlinejudge.u-aizu.ac.jp/challenges/sources/ICPC/Regional
+
